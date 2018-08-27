@@ -1,30 +1,15 @@
-### zKit
+## MIGRATION NOTICE - 28-08-2018
 
-A collection of framework-agnostic web components made with zUIx.
+### **zKit** has got a new home! :smile:
 
-http://kit.zuix.it
+https://github.com/zuixjs/
 
-https://zuixjs.github.io/zkit
+---
 
+This repository is here only to preserve correct functioning of old sites that might be still referencing and using old version of this library.
 
-#### Development
+---
 
-This website is based on [zUIx Web Starter](https://github.com/zuixjs/zuix-web-starter).
+## zKit
 
-1. `npm install` to install development dependencies
-2. `npm start` to start local web server
-3. `npm run watch` to watch file tree for changes and auto-rebuild
-4. `npm run build` to manually build the files
-
-website source files are located in the `./source` folder and are
-generated in the `./docs` folder.
-This setting can be changed by modifying the `./config/default.json` file.
-
-The `source/lib` folder is where zKit components are located.
-The `source/docs` folder contains documentation of each component in the `lib` folder.
-
-
-###### Resources and Docs
-
-- [zUIx](https://zuixjs.github.io/zuix)
-- [Static Site](https://github.com/paulcpederson/static-site)
+A collection of framework-agnostic web components made with [zuix.js](https://zuixjs.github.io/zuixjs.org).
